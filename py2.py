@@ -1,2 +1,2 @@
 print(10000)
-print("Shiva")
+print("Shiva+Ashish")
